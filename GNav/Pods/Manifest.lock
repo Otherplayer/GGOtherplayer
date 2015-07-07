@@ -1,0 +1,10 @@
+PODS:
+  - SFGaugeView (0.0.7)
+
+DEPENDENCIES:
+  - SFGaugeView (~> 0.0.7)
+
+SPEC CHECKSUMS:
+  SFGaugeView: 1afc5641388422e1285c2feaf06787023531e67b
+
+COCOAPODS: 0.34.4
